@@ -12,7 +12,7 @@ Pour toi mon amour 💘
 SHELBY'S UNIVERSE
 </header>
 
-<section class="hero">     <div class="heart">♥</div>     <h1>Bienvenue dans mon univers</h1>     <p>         Un espace qui rassemble mes pensées,         mes rêves, mes souvenirs et les personnes         qui rendent ma vie particulière.     </p>     <button onclick="document.getElementById('about').scrollIntoView({behavior:'smooth'})">         Explorer mon univers     </button> </section>
+<section class="hero">     <div class="heart">♥</div>     <h1>Bienvenue dans mon univers</h1>     <p>         Un espace qui rassemble mes pensées,         mes rêves, mes souvenirs et toi, surtout toi        qui rendent ma vie particulière.     </p>     <button onclick="document.getElementById('about').scrollIntoView({behavior:'smooth'})">         Explorer mon univers     </button> </section>
 
 <section class="section" id="about">     <h2>À propos de moi</h2>     <div class="card">.
 
